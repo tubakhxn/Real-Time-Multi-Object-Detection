@@ -1,4 +1,4 @@
-## dev/creastir = tubakhxn
+## dev/creator = tubakhxn
 
 # Real-Time Multi-Object Detection HUD (AI Vision System)
 
